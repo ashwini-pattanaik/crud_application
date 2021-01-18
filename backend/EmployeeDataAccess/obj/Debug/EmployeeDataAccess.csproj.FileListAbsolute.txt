@@ -1,0 +1,12 @@
+D:\AngularCrud\backend\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+D:\AngularCrud\backend\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+D:\AngularCrud\backend\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+D:\AngularCrud\backend\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+D:\AngularCrud\backend\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\AngularCrud\backend\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+D:\AngularCrud\backend\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\AngularCrud\backend\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojAssemblyReference.cache
+D:\AngularCrud\backend\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+D:\AngularCrud\backend\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
+D:\AngularCrud\backend\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+D:\AngularCrud\backend\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
